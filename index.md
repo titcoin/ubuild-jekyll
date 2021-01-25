@@ -24,7 +24,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Titcoin wallet
+    alt_text: ''
   background_image: "/uploads/2021/01/25/background.jpg"
 - template: content-feature
   block: feature-1
