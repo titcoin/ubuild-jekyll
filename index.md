@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2021/01/25/overview.png"
     alt_text: Titcoin wallet
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/01/25/background.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
