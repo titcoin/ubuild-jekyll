@@ -7,8 +7,12 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/01/25/titcoin-wide.png"
   navigation:
-  - link: www.google.de
-    link_text: Google
+  - link: "/"
+    link_text: About
+  - link: "/"
+    link_text: Download
+  - link: "/"
+    link_text: Community
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
