@@ -23,7 +23,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2021/01/25/overview.png"
+    image: ''
     alt_text: Titcoin wallet
   background_image: "/uploads/2021/01/25/background.jpg"
 - template: content-feature
