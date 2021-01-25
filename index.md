@@ -7,11 +7,11 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/01/25/titcoin-wide.png"
   navigation:
-  - link: "/"
+  - link: "/about"
     link_text: About
-  - link: "/"
+  - link: "#download"
     link_text: Download
-  - link: "/"
+  - link: "#community"
     link_text: Community
 - template: navigation-header-w-button
   block: header-2
